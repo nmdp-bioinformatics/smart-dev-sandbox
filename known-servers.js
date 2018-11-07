@@ -16,5 +16,5 @@ window.KNOWN_SERVERS = [
     /https?\:\/\/127\.0\.0\.1\:\d+\/baseDstu(2|3)\//,
     /https?\:\/\/localhost\:\d+\/baseDstu(2|3)\//,
     /https?\:\/\/r(3|2)(-staging)?\.smarthealthit\.org/,
-    /https?\:\/\/fhirtest\.b12x\.org/r(2|3|4)\//
+    /https?\:\/\/fhirtest\.b12x\.org\/r(2|3|4)\//
 ];
